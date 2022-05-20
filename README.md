@@ -3,7 +3,9 @@ Myer Briggs Type Indicator (MBTI) Test Application in PHP language (english vers
 
 Demo link : https://psycho.cahyadsn.com/mbti_test ( ver 0.2 English version)
 
-see https://psycho.cahyadsn.com/mbti for indonesian version
+for indonesian version
+- demo https://psycho.cahyadsn.com/mbti 
+- source https://github.com/cahyadsn/mbti
 
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/cahyadsn/mbti_test/blob/master/LICENSEs)
 [![GitHub last commit](https://img.shields.io/github/last-commit/google/skia.svg?style=flat)]()
