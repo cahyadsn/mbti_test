@@ -1,7 +1,7 @@
 # mbti_test
 Myer Briggs Type Indicator (MBTI) Test Application in PHP language (english version)
 
-[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/cahyadsn/mbti_test/blob/master/LICENSE)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![GitHub last commit](https://img.shields.io/github/last-commit/google/skia.svg?style=flat)]()
 [![Donate](https://img.shields.io/badge/$-support-ff69b4.svg?style=flat)](https://paypal.me/cahyadwiana)
 
